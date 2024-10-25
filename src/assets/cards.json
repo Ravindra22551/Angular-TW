@@ -1,0 +1,34 @@
+[
+    {
+"id":1,
+"src":"https://cdn.pixabay.com/photo/2020/06/05/21/09/cultural-tourism-5264542_1280.jpg",
+"alt":"taj mahal",
+"title":"entry ticket",
+"price":"1200",
+"button":"book now"
+    },
+    {
+        "id":1,
+        "src":"https://cdn.pixabay.com/photo/2020/06/05/21/09/cultural-tourism-5264542_1280.jpg",
+        "alt":"taj mahal",
+        "title":"entry ticket",
+        "price":"1200",
+        "button":"book now"
+            },
+            {
+                "id":1,
+                "src":"https://cdn.pixabay.com/photo/2020/06/05/21/09/cultural-tourism-5264542_1280.jpg",
+                "alt":"taj mahal",
+                "title":"entry ticket",
+                "price":"1200",
+                "button":"book now"
+                    },
+                    {
+                        "id":1,
+                        "src":"https://cdn.pixabay.com/photo/2020/06/05/21/09/cultural-tourism-5264542_1280.jpg",
+                        "alt":"taj mahal",
+                        "title":"entry ticket",
+                        "price":"1200",
+                        "button":"book now"
+                            }
+]

@@ -8,7 +8,7 @@ import { CardsComponent } from './cards/cards.component';
 
 import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 import { HelloComponent } from './hello/hello.component';
-
+import{HttpClientModule}from "@angular/common/http";
 
 @NgModule({
   declarations: [
@@ -22,7 +22,8 @@ import { HelloComponent } from './hello/hello.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
